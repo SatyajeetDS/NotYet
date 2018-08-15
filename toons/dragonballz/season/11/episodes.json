@@ -1,0 +1,20 @@
+[
+{
+"ID": 1309,
+"T": "Movie Part 1",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd15/7443/Dragon%20Ball%20Z%20Broly%20The%20Legendary%20Super%20Saiyan%20Part%201%20Hindi%20(CoolsAnime.Com).mp4",
+"season_id": 100,
+"TP": "36:00",
+"published@": "2017-01-20T15:16:28.801Z",
+"updated@": "2018-04-10T15:08:03.331Z"
+},
+{
+"ID": 2203,
+"T": "Movie Part 2",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd15/7441/Dragon%20Ball%20Z%20Broly%20The%20Legendary%20Super%20Saiyan%20Part%202%20Hindi%20(CoolsAnime.Com).mp4",
+"season_id": 100,
+"TP": "35:57",
+"published@": "2017-08-27T06:55:53.295Z",
+"updated@": "2018-04-10T15:08:05.572Z"
+}
+]

@@ -1,0 +1,164 @@
+[
+{
+"ID": 1099,
+"T": "Episode 1 : A Whale Of a Bad Time",
+"PLAY": "0B8ELJUFu_kYmUHp1WUo0N2hHVU0",
+"season_id": 86,
+"TP": "22:08",
+"published@": "2017-01-08T19:38:50.674Z",
+"updated@": "2017-01-08T19:38:50.674Z"
+},
+{
+"ID": 1100,
+"T": "Episode 2 : Sphinx Of The Memories",
+"PLAY": "0B8ELJUFu_kYmTmJtX3NRTEptV1k",
+"season_id": 86,
+"TP": "22:48",
+"published@": "2017-01-08T19:39:37.924Z",
+"updated@": "2017-01-08T19:39:37.924Z"
+},
+{
+"ID": 1101,
+"T": "Episode 3 – Ducks of the west",
+"PLAY": "0B8ELJUFu_kYmSGVScHNrZm45dmM",
+"season_id": 86,
+"TP": "22:17",
+"published@": "2017-01-08T19:40:39.123Z",
+"updated@": "2017-01-08T19:40:39.123Z"
+},
+{
+"ID": 1102,
+"T": "Episode 4 – Aqua Ducks",
+"PLAY": "0B8ELJUFu_kYmSHloaWkxRjJDLUU",
+"season_id": 86,
+"TP": "22:44",
+"published@": "2017-01-08T19:41:18.739Z",
+"updated@": "2017-01-08T19:41:18.739Z"
+},
+{
+"ID": 1103,
+"T": "Episode 5 – Time Teasers",
+"PLAY": "0B8ELJUFu_kYmWHFyUkpFbzE2Qnc",
+"season_id": 86,
+"TP": "22:29",
+"published@": "2017-01-08T19:42:15.033Z",
+"updated@": "2017-01-08T19:42:15.033Z"
+},
+{
+"ID": 1104,
+"T": "Episode 6 – Back Out in the Outback",
+"PLAY": "0B8ELJUFu_kYmNTJGMTk2VWU0VGs",
+"season_id": 86,
+"TP": "22:40",
+"published@": "2017-01-08T19:43:02.659Z",
+"updated@": "2017-01-08T19:43:02.659Z"
+},
+{
+"ID": 1105,
+"T": "Episode 7 – Working for Scales",
+"PLAY": "0B8ELJUFu_kYmdHRLaUR6Z2ZqbU0",
+"season_id": 86,
+"TP": "22:29",
+"published@": "2017-01-08T19:43:43.209Z",
+"updated@": "2017-01-08T19:43:43.209Z"
+},
+{
+"ID": 1106,
+"T": "Episode 8 – Raiders of the Lost Harp",
+"PLAY": "0B8ELJUFu_kYmRFZRSDBET3U0azg",
+"season_id": 86,
+"TP": "22:26",
+"published@": "2017-01-08T19:44:26.152Z",
+"updated@": "2017-01-08T19:44:26.152Z"
+},
+{
+"ID": 1107,
+"T": "Episode 9 – Luck o’ the Ducks",
+"PLAY": "0B8ELJUFu_kYmMnNMb2xkbTQyU0k",
+"season_id": 86,
+"TP": "22:40",
+"published@": "2017-01-08T19:45:03.289Z",
+"updated@": "2017-01-08T19:45:03.289Z"
+},
+{
+"ID": 1108,
+"T": "Episode 10 – The Golden Fleecing",
+"PLAY": "0B8ELJUFu_kYmMGthaHp0UG5mOFU",
+"season_id": 86,
+"TP": "22:43",
+"published@": "2017-01-08T19:45:48.093Z",
+"updated@": "2017-01-08T19:45:48.093Z"
+},
+{
+"ID": 1109,
+"T": "Episode 11 – The Right Duck",
+"PLAY": "0B8ELJUFu_kYmOElfUTQ4eW15Q2c",
+"season_id": 86,
+"TP": "22:36",
+"published@": "2017-01-08T19:46:28.331Z",
+"updated@": "2017-01-08T19:46:28.331Z"
+},
+{
+"ID": 1110,
+"T": "Episode 12 – Scroogerello",
+"PLAY": "0B8ELJUFu_kYmeGZfcmJiN091bWM",
+"season_id": 86,
+"TP": "22:36",
+"published@": "2017-01-08T19:47:05.370Z",
+"updated@": "2017-01-08T19:47:05.370Z"
+},
+{
+"ID": 1111,
+"T": "Episode 13 – Double-O-Duck",
+"PLAY": "0B8ELJUFu_kYmUERVWUdDWDRJMTA",
+"season_id": 86,
+"TP": "22:36",
+"published@": "2017-01-08T19:47:48.153Z",
+"updated@": "2017-01-08T19:47:48.153Z"
+},
+{
+"ID": 1112,
+"T": "Episode 14 – Jungle Duck",
+"PLAY": "0B8ELJUFu_kYmU0VCam1wMDBVWWs",
+"season_id": 86,
+"TP": "22:34",
+"published@": "2017-01-08T19:48:30.389Z",
+"updated@": "2017-01-08T19:48:30.389Z"
+},
+{
+"ID": 1113,
+"T": "Episode 15 – Duck to the Future",
+"PLAY": "0B8ELJUFu_kYmaDBaWUZqa0lxT0k",
+"season_id": 86,
+"TP": "22:47",
+"published@": "2017-01-08T19:49:15.830Z",
+"updated@": "2017-01-08T19:49:15.830Z"
+},
+{
+"ID": 1114,
+"T": "Episode 16 – Duckworth’s Revolt",
+"PLAY": "0B8ELJUFu_kYmeHFtbGRiUEtuNzA",
+"season_id": 86,
+"TP": "22:28",
+"published@": "2017-01-08T19:49:55.680Z",
+"updated@": "2017-01-08T19:49:55.680Z"
+},
+{
+"ID": 1115,
+"T": "Episode 17 – Spies in Their Eyes",
+"PLAY": "0B8ELJUFu_kYmbzI1bkFzTGFIc3M",
+"season_id": 86,
+"TP": "22:56",
+"published@": "2017-01-08T19:50:32.990Z",
+"updated@": "2017-01-08T19:50:32.990Z"
+},
+{
+"ID": 1116,
+"T": "Episode 18 – Launchpad’s First Crash",
+"PLAY": "0B8ELJUFu_kYmcnBtRVRMQWtGNmM",
+"season_id": 86,
+"TP": "22:46",
+"published@": "2017-01-08T19:51:15.780Z",
+"updated@": "2017-01-08T19:51:15.780Z"
+}
+]

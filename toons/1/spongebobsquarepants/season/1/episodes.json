@@ -1,0 +1,74 @@
+[
+{
+"ID": 979,
+"T": "Episode 01- Help Wanted",
+"PLAY": "0B-uCEhazFNHgR2QtZ1B0aDNtWFE",
+"season_id": 76,
+"TP": "9:03",
+"published@": "2016-12-30T17:45:39.395Z",
+"updated@": "2017-01-08T20:05:24.846Z"
+},
+{
+"ID": 980,
+"T": "Episode 02- Reef Blower ",
+"PLAY": "0B-uCEhazFNHgQXJMMFNQVzYxRnc",
+"season_id": 76,
+"TP": "2:53",
+"published@": "2016-12-30T17:46:33.791Z",
+"updated@": "2017-01-08T20:06:33.690Z"
+},
+{
+"ID": 981,
+"T": "Episode 3 – Tea at the Treedome",
+"PLAY": "0B-uCEhazFNHgaGRJRDZCc2ZDNWc",
+"season_id": 76,
+"TP": "11:03",
+"published@": "2016-12-30T17:47:15.248Z",
+"updated@": "2017-01-08T20:07:49.060Z"
+},
+{
+"ID": 982,
+"T": "Episode 4 – Bubblestand",
+"PLAY": "0B-uCEhazFNHgZ2FoMU5sblNYRE0",
+"season_id": 76,
+"TP": "11:05",
+"published@": "2016-12-30T17:47:56.364Z",
+"updated@": "2017-01-08T20:09:17.860Z"
+},
+{
+"ID": 983,
+"T": "Episode 5 – Ripped Pants",
+"PLAY": "0B-uCEhazFNHgVVFhV3NfVUdJUUE",
+"season_id": 76,
+"TP": "11:04",
+"published@": "2016-12-30T17:48:42.068Z",
+"updated@": "2017-01-08T20:10:27.347Z"
+},
+{
+"ID": 984,
+"T": "Episode 6 – Jellyfishing",
+"PLAY": "0B-uCEhazFNHgSXM5bU8tcl9wUEE",
+"season_id": 76,
+"TP": "11:04",
+"published@": "2016-12-30T17:49:29.786Z",
+"updated@": "2017-01-08T20:13:04.279Z"
+},
+{
+"ID": 985,
+"T": "Episode 7 – Plankton!",
+"PLAY": "0B-uCEhazFNHgbm82aGZiWkcwZk0",
+"season_id": 76,
+"TP": "11:04",
+"published@": "2016-12-30T17:50:14.175Z",
+"updated@": "2017-01-08T20:14:11.294Z"
+},
+{
+"ID": 986,
+"T": "Episode 8 – Naughty Nautical Neighbors",
+"PLAY": "0B-uCEhazFNHgbWJyTkRkeWdtRWs",
+"season_id": 76,
+"TP": "11:03",
+"published@": "2016-12-30T17:51:21.678Z",
+"updated@": "2017-01-08T20:15:25.142Z"
+}
+]

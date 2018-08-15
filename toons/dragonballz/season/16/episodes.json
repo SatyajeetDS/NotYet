@@ -1,0 +1,965 @@
+[
+{
+"ID": 1716,
+"T": "Episode 001",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5622/Dragon%20Ball%20Super%20Episode%201%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.674Z",
+"updated@": "2018-04-10T15:08:05.266Z"
+},
+{
+"ID": 1717,
+"T": "Episode 002",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5623/Dragon%20Ball%20Super%20Episode%202%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.688Z",
+"updated@": "2018-04-10T15:08:04.710Z"
+},
+{
+"ID": 1718,
+"T": "Episode 003",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5624/Dragon%20Ball%20Super%20Episode%203%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.692Z",
+"updated@": "2018-04-10T15:08:05.271Z"
+},
+{
+"ID": 1719,
+"T": "Episode 004",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5625/Dragon%20Ball%20Super%20Episode%204%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.696Z",
+"updated@": "2018-04-10T15:08:04.598Z"
+},
+{
+"ID": 1720,
+"T": "Episode 005",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5626/Dragon%20Ball%20Super%20Episode%205%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.699Z",
+"updated@": "2018-04-10T15:08:04.603Z"
+},
+{
+"ID": 1721,
+"T": "Episode 006",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5627/Dragon%20Ball%20Super%20Episode%206%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.703Z",
+"updated@": "2018-04-10T15:08:04.390Z"
+},
+{
+"ID": 1722,
+"T": "Episode 007",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5628/Dragon%20Ball%20Super%20Episode%207%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.708Z",
+"updated@": "2018-04-10T15:08:06.959Z"
+},
+{
+"ID": 1723,
+"T": "Episode 008",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5629/Dragon%20Ball%20Super%20Episode%208%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.712Z",
+"updated@": "2018-04-10T15:08:04.395Z"
+},
+{
+"ID": 1724,
+"T": "Episode 009",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5630/Dragon%20Ball%20Super%20Episode%209%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.715Z",
+"updated@": "2018-04-10T15:08:04.705Z"
+},
+{
+"ID": 1725,
+"T": "Episode 010",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5631/Dragon%20Ball%20Super%20Episode%2010%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.720Z",
+"updated@": "2018-04-10T15:08:04.403Z"
+},
+{
+"ID": 1726,
+"T": "Episode 011",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5632/Dragon%20Ball%20Super%20Episode%2011%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.724Z",
+"updated@": "2018-04-10T15:08:04.413Z"
+},
+{
+"ID": 1727,
+"T": "Episode 012",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5633/Dragon%20Ball%20Super%20Episode%2012%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:12",
+"published@": "2017-02-12T14:51:03.729Z",
+"updated@": "2018-04-10T15:08:04.422Z"
+},
+{
+"ID": 1728,
+"T": "Episode 013",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5634/Dragon%20Ball%20Super%20Episode%2013%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.734Z",
+"updated@": "2018-04-10T15:08:04.429Z"
+},
+{
+"ID": 1729,
+"T": "Episode 014",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5635/Dragon%20Ball%20Super%20Episode%2014%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.739Z",
+"updated@": "2018-04-10T15:08:04.436Z"
+},
+{
+"ID": 1730,
+"T": "Episode 015",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5636/Dragon%20Ball%20Super%20Episode%2015%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.744Z",
+"updated@": "2018-04-10T15:08:06.986Z"
+},
+{
+"ID": 1731,
+"T": "Episode 016",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5637/Dragon%20Ball%20Super%20Episode%2016%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.748Z",
+"updated@": "2018-04-10T15:08:04.445Z"
+},
+{
+"ID": 1732,
+"T": "Episode 017",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5638/Dragon%20Ball%20Super%20Episode%2017%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.752Z",
+"updated@": "2018-04-10T15:08:04.452Z"
+},
+{
+"ID": 1733,
+"T": "Episode 018",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5639/Dragon%20Ball%20Super%20Episode%2018%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.757Z",
+"updated@": "2018-04-10T15:08:05.787Z"
+},
+{
+"ID": 1734,
+"T": "Episode 019",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5640/Dragon%20Ball%20Super%20Episode%2019%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.760Z",
+"updated@": "2018-04-10T15:08:04.458Z"
+},
+{
+"ID": 1735,
+"T": "Episode 020",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5641/Dragon%20Ball%20Super%20Episode%2020%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.765Z",
+"updated@": "2018-04-10T15:08:04.592Z"
+},
+{
+"ID": 1736,
+"T": "Episode 021",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5642/Dragon%20Ball%20Super%20Episode%2021%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:34",
+"published@": "2017-02-12T14:51:03.772Z",
+"updated@": "2018-04-10T15:08:04.465Z"
+},
+{
+"ID": 1737,
+"T": "Episode 022",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5643/Dragon%20Ball%20Super%20Episode%2022%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.776Z",
+"updated@": "2018-04-10T15:08:04.472Z"
+},
+{
+"ID": 1738,
+"T": "Episode 023",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5644/Dragon%20Ball%20Super%20Episode%2023%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.780Z",
+"updated@": "2018-04-10T15:08:04.480Z"
+},
+{
+"ID": 1739,
+"T": "Episode 024",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5645/Dragon%20Ball%20Super%20Episode%2024%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.784Z",
+"updated@": "2018-04-10T15:08:04.719Z"
+},
+{
+"ID": 1740,
+"T": "Episode 025",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5646/Dragon%20Ball%20Super%20Episode%2025%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.792Z",
+"updated@": "2018-04-10T15:08:06.965Z"
+},
+{
+"ID": 1741,
+"T": "Episode 026",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5647/Dragon%20Ball%20Super%20Episode%2026%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.796Z",
+"updated@": "2018-04-10T15:08:04.488Z"
+},
+{
+"ID": 1742,
+"T": "Episode 027",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5648/Dragon%20Ball%20Super%20Episode%2027%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.799Z",
+"updated@": "2018-04-10T15:08:04.495Z"
+},
+{
+"ID": 1743,
+"T": "Episode 028",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5649/Dragon%20Ball%20Super%20Episode%2028%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.803Z",
+"updated@": "2018-04-10T15:08:05.594Z"
+},
+{
+"ID": 1744,
+"T": "Episode 029",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5650/Dragon%20Ball%20Super%20Episode%2029%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.807Z",
+"updated@": "2018-04-10T15:08:04.502Z"
+},
+{
+"ID": 1745,
+"T": "Episode 030",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5651/Dragon%20Ball%20Super%20Episode%2030%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.811Z",
+"updated@": "2018-04-10T15:08:04.724Z"
+},
+{
+"ID": 1746,
+"T": "Episode 031",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5652/Dragon%20Ball%20Super%20Episode%2031%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.815Z",
+"updated@": "2018-04-10T15:08:04.509Z"
+},
+{
+"ID": 1747,
+"T": "Episode 032",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5653/Dragon%20Ball%20Super%20Episode%2032%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.818Z",
+"updated@": "2018-04-10T15:08:04.516Z"
+},
+{
+"ID": 1748,
+"T": "Episode 033",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5654/Dragon%20Ball%20Super%20Episode%2033%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.822Z",
+"updated@": "2018-04-10T15:08:04.522Z"
+},
+{
+"ID": 1749,
+"T": "Episode 034",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5655/Dragon%20Ball%20Super%20Episode%2034%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.826Z",
+"updated@": "2018-04-10T15:08:04.527Z"
+},
+{
+"ID": 1750,
+"T": "Episode 035",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5656/Dragon%20Ball%20Super%20Episode%2035%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:35",
+"published@": "2017-02-12T14:51:03.830Z",
+"updated@": "2018-04-10T15:08:04.533Z"
+},
+{
+"ID": 1751,
+"T": "Episode 036",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5657/Dragon%20Ball%20Super%20Episode%2036%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.833Z",
+"updated@": "2018-04-10T15:08:04.538Z"
+},
+{
+"ID": 1752,
+"T": "Episode 037",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5658/Dragon%20Ball%20Super%20Episode%2037%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:35",
+"published@": "2017-02-12T14:51:03.838Z",
+"updated@": "2018-04-10T15:08:04.730Z"
+},
+{
+"ID": 1753,
+"T": "Episode 038",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5659/Dragon%20Ball%20Super%20Episode%2038%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.842Z",
+"updated@": "2018-04-10T15:08:04.544Z"
+},
+{
+"ID": 1754,
+"T": "Episode 039",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5660/Dragon%20Ball%20Super%20Episode%2039%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.846Z",
+"updated@": "2018-04-10T15:08:04.553Z"
+},
+{
+"ID": 1755,
+"T": "Episode 040",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5661/Dragon%20Ball%20Super%20Episode%2040%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.851Z",
+"updated@": "2018-04-10T15:08:04.559Z"
+},
+{
+"ID": 1756,
+"T": "Episode 041",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5662/Dragon%20Ball%20Super%20Episode%2041%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.855Z",
+"updated@": "2018-04-10T15:08:06.970Z"
+},
+{
+"ID": 1757,
+"T": "Episode 042",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5663/Dragon%20Ball%20Super%20Episode%2042%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.859Z",
+"updated@": "2018-04-10T15:08:05.598Z"
+},
+{
+"ID": 1758,
+"T": "Episode 043",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5664/Dragon%20Ball%20Super%20Episode%2043%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.864Z",
+"updated@": "2018-04-10T15:08:04.755Z"
+},
+{
+"ID": 1759,
+"T": "Episode 044",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5665/Dragon%20Ball%20Super%20Episode%2044%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.869Z",
+"updated@": "2018-04-10T15:08:04.564Z"
+},
+{
+"ID": 1760,
+"T": "Episode 045",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5666/Dragon%20Ball%20Super%20Episode%2045%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.876Z",
+"updated@": "2018-04-10T15:08:04.569Z"
+},
+{
+"ID": 1761,
+"T": "Episode 046",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5667/Dragon%20Ball%20Super%20Episode%2046%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.881Z",
+"updated@": "2018-04-10T15:08:04.574Z"
+},
+{
+"ID": 1762,
+"T": "Episode 047",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5668/Dragon%20Ball%20Super%20Episode%2047%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.885Z",
+"updated@": "2018-04-10T15:08:04.580Z"
+},
+{
+"ID": 1763,
+"T": "Episode 048",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5669/Dragon%20Ball%20Super%20Episode%2048%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.889Z",
+"updated@": "2018-04-10T15:08:04.587Z"
+},
+{
+"ID": 1764,
+"T": "Episode 049",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5670/Dragon%20Ball%20Super%20Episode%2049%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.896Z",
+"updated@": "2018-04-10T15:08:04.760Z"
+},
+{
+"ID": 1765,
+"T": "Episode 050",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5671/Dragon%20Ball%20Super%20Episode%2050%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.900Z",
+"updated@": "2018-04-10T15:08:04.765Z"
+},
+{
+"ID": 1766,
+"T": "Episode 051",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5672/Dragon%20Ball%20Super%20Episode%2051%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.906Z",
+"updated@": "2018-04-10T15:08:04.376Z"
+},
+{
+"ID": 1767,
+"T": "Episode 052",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5673/Dragon%20Ball%20Super%20Episode%2052%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.910Z",
+"updated@": "2018-04-10T15:08:04.770Z"
+},
+{
+"ID": 1768,
+"T": "Episode 053",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5674/Dragon%20Ball%20Super%20Episode%2053%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.914Z",
+"updated@": "2018-04-10T15:08:04.686Z"
+},
+{
+"ID": 1769,
+"T": "Episode 054",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5675/Dragon%20Ball%20Super%20Episode%2054%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.918Z",
+"updated@": "2018-04-10T15:08:04.777Z"
+},
+{
+"ID": 1770,
+"T": "Episode 055",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5676/Dragon%20Ball%20Super%20Episode%2055%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:30",
+"published@": "2017-02-12T14:51:03.923Z",
+"updated@": "2018-04-10T15:08:07.089Z"
+},
+{
+"ID": 1771,
+"T": "Episode 056",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5677/Dragon%20Ball%20Super%20Episode%2056%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.926Z",
+"updated@": "2018-04-10T15:08:04.608Z"
+},
+{
+"ID": 1772,
+"T": "Episode 057",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5678/Dragon%20Ball%20Super%20Episode%2057%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:31",
+"published@": "2017-02-12T14:51:03.930Z",
+"updated@": "2018-04-10T15:08:04.614Z"
+},
+{
+"ID": 1773,
+"T": "Episode 058",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5679/Dragon%20Ball%20Super%20Episode%2058%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:10",
+"published@": "2017-02-12T14:51:03.934Z",
+"updated@": "2018-04-10T15:08:04.623Z"
+},
+{
+"ID": 1774,
+"T": "Episode 059",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5680/Dragon%20Ball%20Super%20Episode%2059%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:10",
+"published@": "2017-02-12T14:51:03.938Z",
+"updated@": "2018-04-10T15:08:04.628Z"
+},
+{
+"ID": 1775,
+"T": "Episode 060",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd9/4151/Dragon%20Ball%20Super%20Episode%2060%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:10",
+"published@": "2017-02-12T14:51:03.942Z",
+"updated@": "2018-04-10T15:08:04.634Z"
+},
+{
+"ID": 1776,
+"T": "Episode 061",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd9/4454/Dragon%20ball%20super%20Episode%2061%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:10",
+"published@": "2017-02-12T14:51:03.946Z",
+"updated@": "2018-04-10T15:08:04.639Z"
+},
+{
+"ID": 1777,
+"T": "Episode 062",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd9/4455/Dragon%20Ball%20Super%20Episode%2062%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.950Z",
+"updated@": "2018-04-10T15:08:06.981Z"
+},
+{
+"ID": 1778,
+"T": "Episode 063",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd9/4456/Dragon%20Ball%20Super%20Episode%2063%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.954Z",
+"updated@": "2018-04-10T15:08:04.644Z"
+},
+{
+"ID": 1779,
+"T": "Episode 064",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd9/4457/Dragon%20Ball%20Super%20Episode%2064%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.958Z",
+"updated@": "2018-04-10T15:08:04.649Z"
+},
+{
+"ID": 1780,
+"T": "Episode 065",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5116/Dragon%20Ball%20Super%20Episode%2065%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.961Z",
+"updated@": "2018-04-10T15:08:04.657Z"
+},
+{
+"ID": 1781,
+"T": "Episode 066",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5117/Dragon%20Ball%20Super%20Episode%2066%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.966Z",
+"updated@": "2018-04-10T15:08:04.664Z"
+},
+{
+"ID": 1782,
+"T": "Episode 067",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5118/Dragon%20Ball%20Super%20Episode%2067%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.971Z",
+"updated@": "2018-04-10T15:08:04.670Z"
+},
+{
+"ID": 1783,
+"T": "Episode 068",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5119/Dragon%20Ball%20Super%20Episode%2068%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.975Z",
+"updated@": "2018-04-10T15:08:04.675Z"
+},
+{
+"ID": 1784,
+"T": "Episode 069",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5120/Dragon%20Ball%20Super%20Episode%2069%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.980Z",
+"updated@": "2018-04-10T15:08:05.567Z"
+},
+{
+"ID": 1785,
+"T": "Episode 070",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5121/Dragon%20Ball%20Super%20Episode%2070%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:34",
+"published@": "2017-02-12T14:51:03.984Z",
+"updated@": "2018-04-10T15:08:04.714Z"
+},
+{
+"ID": 1786,
+"T": "Episode 071",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5122/Dragon%20Ball%20Super%20Episode%2071%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.988Z",
+"updated@": "2018-04-10T15:08:04.681Z"
+},
+{
+"ID": 1787,
+"T": "Episode 072",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5123/Dragon%20Ball%20Super%20Episode%2072%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:03.992Z",
+"updated@": "2018-04-10T15:08:04.691Z"
+},
+{
+"ID": 1788,
+"T": "Episode 073",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5417/Dragon%20Ball%20Super%20Episode%2073%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:04.001Z",
+"updated@": "2018-04-10T15:08:04.696Z"
+},
+{
+"ID": 1789,
+"T": "Episode 074",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5418/Dragon%20Ball%20Super%20Episode%2074%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:04.006Z",
+"updated@": "2018-04-10T15:08:05.276Z"
+},
+{
+"ID": 1790,
+"T": "Episode 075",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5489/Dragon%20Ball%20Super%20Episode%2075%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:28",
+"published@": "2017-02-12T14:51:04.010Z",
+"updated@": "2018-04-10T15:08:04.701Z"
+},
+{
+"ID": 1973,
+"T": "Dragon Ball Super Episode 76 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd11/5490/Dragon%20Ball%20Super%20Episode%2076%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:31:36.025Z",
+"updated@": "2018-04-10T15:08:05.283Z"
+},
+{
+"ID": 1974,
+"T": "Dragon Ball Super Episode 77 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5551/Dragon%20Ball%20Super%20Episode%2077%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:32:04.166Z",
+"updated@": "2018-04-10T15:08:05.289Z"
+},
+{
+"ID": 1975,
+"T": "Dragon Ball Super Episode 78 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5734/Dragon%20Ball%20Super%20Episode%2078%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:32:33.398Z",
+"updated@": "2018-04-10T15:08:07.048Z"
+},
+{
+"ID": 1976,
+"T": "Dragon Ball Super Episode 79 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd12/5908/Dragon%20Ball%20Super%20Episode%2079%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:33:02.497Z",
+"updated@": "2018-04-10T15:08:05.295Z"
+},
+{
+"ID": 1977,
+"T": "Dragon Ball Super Episode 80 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd13/6177/Dragon%20Ball%20Super%20Episode%2080%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:33:41.993Z",
+"updated@": "2018-04-10T15:08:05.765Z"
+},
+{
+"ID": 1978,
+"T": "Dragon Ball Super Episode 81 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd14/6600/Dragon%20Ball%20Super%20Episode%2081%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:20",
+"published@": "2017-04-09T07:36:00.955Z",
+"updated@": "2018-04-10T15:08:05.304Z"
+},
+{
+"ID": 1979,
+"T": "Dragon Ball Super Episode 82 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd15/7149/Dragon%20Ball%20Super%20Episode%2082%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:36:37.955Z",
+"updated@": "2018-04-10T15:08:05.310Z"
+},
+{
+"ID": 1980,
+"T": "Dragon Ball Super Episode 83 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd15/7340/Dragon%20Ball%20Super%20Episode%2083%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:37:07.383Z",
+"updated@": "2018-04-10T15:08:05.315Z"
+},
+{
+"ID": 1981,
+"T": "Dragon Ball Super Episode 84 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd15/7396/Dragon%20Ball%20Super%20Episode%2084%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:37:41.652Z",
+"updated@": "2018-04-10T15:08:05.321Z"
+},
+{
+"ID": 1982,
+"T": "Dragon Ball Super Episode 85 English Sub",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd15/7437/Dragon%20Ball%20Super%20Episode%2085%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-09T07:38:09.984Z",
+"updated@": "2018-04-10T15:08:05.327Z"
+},
+{
+"ID": 2046,
+"T": "Episode 86 Pehli Baar Muqaabla Android 17 Vs Son Goku",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd15/7459/Episode%2086%20Pehli%20Baar%20Muqaabla%20Android%2017%20Vs%20Son%20Goku(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-27T16:02:57.635Z",
+"updated@": "2018-04-10T15:08:05.769Z"
+},
+{
+"ID": 2047,
+"T": "Episode 87 Gairkaanooni Shikaariyo Ka Shikaar Goku Aur No 17 Eksaath",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd16/7551/Episode%2087%20Gairkaanooni%20Shikaariyo%20Ka%20Shikaar%20Goku%20Aur%20No%2017%20Eksaath(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-04-27T16:03:37.658Z",
+"updated@": "2018-04-10T15:08:05.350Z"
+},
+{
+"ID": 2154,
+"T": "Episode 88 Gohan Aur Piccolo Teacher Aur Student Karenge Full Power Training",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd16/7590/Episode%2088%20Gohan%20Aur%20Piccolo%20Teacher%20Aur%20Student%20Karenge%20Full%20Power%20Training%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:39:00.177Z",
+"updated@": "2018-04-10T15:08:05.773Z"
+},
+{
+"ID": 2155,
+"T": "Episode 89 Anjaan Khoobsoorti Tenshin style Dojo Ki Mystery",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd16/7670/Episode%2089%20Anjaan%20Khoobsoorti%20Tenshin%20style%20Dojo%20Ki%20Mystery%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:39:40.707Z",
+"updated@": "2018-04-10T15:08:07.061Z"
+},
+{
+"ID": 2156,
+"T": "Episode 90 Taaqat Ki Deewaar Ko Karenge Paar Goku Vs Gohan",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd16/7753/Episode%2090%20Taaqat%20Ki%20Deewaar%20Ko%20Karenge%20Paar%20Goku%20Vs%20Gohan%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:40:10.251Z",
+"updated@": "2018-04-10T15:08:05.429Z"
+},
+{
+"ID": 2157,
+"T": "Episode 91 Konsa Universe Karega Survive Sabse Taaqatwar Yoddhaa Ikatthay Ho Rahe Hai",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd16/7854/Episode%2091%20Konsa%20Universe%20Karega%20Survive%20Sabse%20Taaqatwar%20Yoddhaa%20Ikatthay%20Ho%20Rahe%20Hai%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:41:06.886Z",
+"updated@": "2018-04-10T15:08:07.173Z"
+},
+{
+"ID": 2158,
+"T": "Episode 92 Emergency Aa Gayi 10 Members Poore Nahi Hue",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd16/7933/Episode%2092%20Emergency%20Aa%20Gayi%2010%20Members%20Poore%20Nahi%20Hue%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:41:47.173Z",
+"updated@": "2018-04-10T15:08:05.355Z"
+},
+{
+"ID": 2159,
+"T": "Episode 93 Tum Ho 10th Yoddha Goku Karega Freeza Ko Invite",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd16/7994/Episode%2093%20Tum%20Ho%2010th%20Yoddha%20Goku%20Karega%20Freeza%20Ko%20Invite%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:42:12.779Z",
+"updated@": "2018-04-10T15:08:05.361Z"
+},
+{
+"ID": 2160,
+"T": "Episode 94 Shaitaano ke Samraat ki Wapsi",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd17/8080/Episode%2094%20Shaitaano%20ke%20Samraat%20ki%20Wapsi%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:42:39.035Z",
+"updated@": "2018-04-10T15:08:05.366Z"
+},
+{
+"ID": 2161,
+"T": "Episode 95 Sabse khatarnaak Frieza ka Aatanki Haungama",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd17/8114/Episode%2095%20Sabse%20khatarnaak%20Frieza%20ka%20Aatanki%20Haungama%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:43:09.691Z",
+"updated@": "2018-04-10T15:08:05.370Z"
+},
+{
+"ID": 2162,
+"T": "Episode 96 Sabhi Yoddhao ka Shoonya Duniya me Aagman",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd17/8211/Episode%2096%20Sabhi%20Yoddhao%20ka%20Shoonya%20Duniya%20me%20Aagman%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:44:09.850Z",
+"updated@": "2018-04-10T15:08:05.375Z"
+},
+{
+"ID": 2163,
+"T": "Episode 97 Akhirkaar Shakti ka Tournament Shuru Ho jata hai",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd17/8281/Episode%2097%20Akhirkaar%20Shakti%20ka%20Tournament%20Shuru%20Ho%20jata%20hai%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:44:42.366Z",
+"updated@": "2018-04-10T15:08:05.380Z"
+},
+{
+"ID": 2173,
+"T": "Episode 98 Akhirkhar Ek Universe Mita Diya Gaya",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd17/8421/Episode%2098%20Akhirkhar%20Ek%20Universe%20Mita%20Diya%20Gaya%20720p(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-07-15T04:56:45.964Z",
+"updated@": "2018-04-10T15:08:05.425Z"
+},
+{
+"ID": 2174,
+"T": "Episode 99",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd17/8471/Dragon%20Ball%20Super%20Episode%2099%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-08-24T06:43:51.917Z",
+"updated@": "2018-04-10T15:08:05.442Z"
+},
+{
+"ID": 2175,
+"T": "Episode 100",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd18/8510/Dragon%20Ball%20Super%20Episode%20100%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-08-24T06:44:29.633Z",
+"updated@": "2018-04-10T15:08:05.446Z"
+},
+{
+"ID": 2176,
+"T": "Episode 101",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd18/8511/Dragon%20Ball%20Super%20Episode%20101%20English%20Subbed(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-08-24T06:44:50.727Z",
+"updated@": "2018-04-10T15:08:05.451Z"
+},
+{
+"ID": 2177,
+"T": "Episode 102",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd18/8532/Dragon%20Ball%20Super%20Episode%20102%20English%20Subbed(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-08-24T06:45:08.714Z",
+"updated@": "2018-04-10T15:08:05.456Z"
+},
+{
+"ID": 2178,
+"T": "Episode 103",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd18/8658/Dragon%20Ball%20Super%20Episode%20103%20English%20Sub(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-08-24T06:45:27.757Z",
+"updated@": "2018-04-10T15:08:05.462Z"
+},
+{
+"ID": 2179,
+"T": "Episode 104",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd18/8766/Dragon%20Ball%20Super%20Episode%20104%20English%20Subbed(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-08-24T06:45:47.066Z",
+"updated@": "2018-04-10T15:08:05.466Z"
+},
+{
+"ID": 2180,
+"T": "Episode 105",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd18/8891/Dragon%20Ball%20Super%20Episode%20105%20English%20Subbed(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-08-24T06:46:07.677Z",
+"updated@": "2018-04-10T15:08:05.470Z"
+},
+{
+"ID": 2214,
+"T": "Episode 106 Find Him! Death Match with an Invisible Attacker",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd19/9137/Dragon%20Ball%20Super%20Episode%20106%20English%20Subbed(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:22",
+"published@": "2017-09-04T04:48:25.191Z",
+"updated@": "2018-04-10T15:08:05.577Z"
+},
+{
+"ID": 2237,
+"T": "Episode 107",
+"PLAY": "http://data002.coolsanime.in/siteuploads/files/sfd19/9235/Dragon%20Ball%20Super%20Episode%20107%20English%20Subbed(CoolsAnime.Com).mp4",
+"season_id": 139,
+"TP": "23:21",
+"published@": "2017-09-17T16:44:01.876Z",
+"updated@": "2018-04-10T15:08:05.654Z"
+}
+]
