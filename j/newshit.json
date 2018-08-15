@@ -1,0 +1,478 @@
+[
+{
+"T": "101 Dalmatians 1961",
+"NOS": "1",
+"THUMB": "https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/58/seasons.json"
+},
+{
+"T": "Aladdin",
+"NOS": "1",
+"THUMB": "http://is5.mzstatic.com/image/thumb/Video62/v4/be/9b/c8/be9bc819-7dcf-007e-a99f-af9389533a62/source/1200x630bb.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/10/seasons.json"
+},
+{
+"T": "Avengers Assemble",
+"NOS": "1",
+"THUMB": "https://static.next-episode.net/tv-shows-images/huge/marvels-avengers-assemble.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/61/seasons.json"
+},
+{
+"T": "Ben 10",
+"NOS": "4",
+"THUMB": "https://res.cloudinary.com/maymay/image/upload/v1511346843/Ben10Wallpaper3800_gt0fq3.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/21/seasons.json"
+},
+{
+"T": "Beyblade",
+"NOS": "2",
+"THUMB": "http://images2.fanpop.com/image/photos/13600000/Bladebrakers-beyblade-13671771-500-375.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/1/seasons.json"
+},
+{
+"T": "Big Hero 6",
+"NOS": "1",
+"THUMB": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-4n6yar_2ec1d223.jpeg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/71/seasons.json"
+},
+{
+"T": "Bugs Bunny",
+"NOS": "1",
+"THUMB": "https://s-media-cache-ak0.pinimg.com/originals/2a/ef/5d/2aef5de8d3c3dd4d8b6806aa56a2a8da.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/19/seasons.json"
+},
+{
+"T": "Chip 'n' Dale",
+"NOS": "2",
+"THUMB": "http://cinergetica.com.mx/wp-content/uploads/2014/02/chip-y-dale-rescatadores-645x505.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/50/seasons.json"
+},
+{
+"T": "Coco 2017",
+"NOS": "1",
+"THUMB": "http://piccc.coolsanime.com/c/1624_3.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/77/seasons.json"
+},
+{
+"T": "Courage The Cowardly Dog",
+"NOS": "4",
+"THUMB": "http://www.cartoonson.com/_resources/Cartoons/show/7/image/555x418/courage-the-cowardly-dog-show.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/3/seasons.json"
+},
+{
+"T": "Daffy Duck",
+"NOS": "1",
+"THUMB": "http://images5.fanpop.com/image/photos/30100000/Daffy-Duck-daffy-duck-the-looney-tunes-show-30139694-701-394.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/12/seasons.json"
+},
+{
+"T": "Detective Conan",
+"NOS": "1",
+"THUMB": "http://az735906.vo.msecnd.net/aniheraldcdn/wp-content/uploads/2016/01/Detective-Conan-Header-001-20160101.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/8/seasons.json"
+},
+{
+"T": "Dexter's Laboratory",
+"NOS": "4",
+"THUMB": "https://i.imgur.com/Y22ZQb8.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/7/seasons.json"
+},
+{
+"T": "Doraemon",
+"NOS": "2",
+"THUMB": "http://i.dawn.com/large/2016/08/57a1c6ba939c6.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/29/seasons.json"
+},
+{
+"T": "Dragon Ball Z",
+"NOS": "3",
+"THUMB": "https://2.bp.blogspot.com/-PwblW28Uc18/VanI02tq98I/AAAAAAAACTw/v6W_0HAmV6E/s1600/dbz.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/34/seasons.json"
+},
+{
+"T": "Duck Tales",
+"NOS": "1",
+"THUMB": "https://vignette2.wikia.nocookie.net/animatedmusclewomen/images/6/65/Duck-tales-reboot-pic.jpg/revision/latest?cb=20170410135755",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/41/seasons.json"
+},
+{
+"T": "Ed, Edd, n Eddy",
+"NOS": "5",
+"THUMB": "https://i.ytimg.com/vi/EW69MhLzeog/maxresdefault.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/5/seasons.json"
+},
+{
+"T": "Finding Nemo",
+"NOS": "1",
+"THUMB": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/57/seasons.json"
+},
+{
+"T": "Frozen Movie",
+"NOS": "1",
+"THUMB": "http://hhsadvocate.com/wp-content/uploads/2014/03/Frozen-image-frozen-.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/49/seasons.json"
+},
+{
+"T": "Hannah Montana (English)",
+"NOS": "4",
+"THUMB": "http://sev.h-cdn.co/assets/16/46/1479486374-how-well-do-you-remember-hannah-montana-2-24324-1462810165-0-dblbig.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/59/seasons.json"
+},
+{
+"T": "He-Man and the Masters of the Universe",
+"NOS": "2",
+"THUMB": "http://www.rotoscopers.com/wp-content/uploads/2016/01/motu_cover.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/4/seasons.json"
+},
+{
+"T": "Jackie Chan Adventures",
+"NOS": "4",
+"THUMB": "https://img.buzzfeed.com/buzzfeed-static/static/2015-09/2/13/campaign_images/webdr15/jackie-chan-adventures-was-the-best-cartoon-2-17288-1441214991-1_dblbig.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/55/seasons.json"
+},
+{
+"T": "Johnny Bravo",
+"NOS": "2",
+"THUMB": "https://i1.ytimg.com/sh/zxcjmqi2SDk/showposter.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/2/seasons.json"
+},
+{
+"T": "Johnny Test",
+"NOS": "1",
+"THUMB": "https://i.imgur.com/0LzNUel.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/73/seasons.json"
+},
+{
+"T": "Justice League Unlimited",
+"NOS": "2",
+"THUMB": "https://i.kinja-img.com/gawker-media/image/upload/s--tv0aBAt4--/c_scale,f_auto,fl_progressive,q_80,w_800/1517501242894488649.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/37/seasons.json"
+},
+{
+"T": "Kiteretsu",
+"NOS": "1",
+"THUMB": "http://orig09.deviantart.net/9133/f/2011/040/b/4/kiteretsu_and_korosuke_dinner_by_myabuttreeks-d397frf.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/47/seasons.json"
+},
+{
+"T": "Kochikame",
+"NOS": "1",
+"THUMB": "http://vignette1.wikia.nocookie.net/dragonball/images/b/ba/KochiKame.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/23/seasons.json"
+},
+{
+"T": "Kung Fu Panda",
+"NOS": "1",
+"THUMB": "https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_1280,q_90,w_480/v1/invites/l8q3fcvjzllbgk5oovjs.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/52/seasons.json"
+},
+{
+"T": "Looney Tunes",
+"NOS": "1",
+"THUMB": "http://www.dan-dare.org/FreeFun/Images/CartoonsMoviesTV/LooneyTunesWallpaper800.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/24/seasons.json"
+},
+{
+"T": "Make Way for Noddy",
+"NOS": "1",
+"THUMB": "http://www.disneyimage.com/_/rsrc/1264579366621/noddy-and-friends/noddy_and_friends_Wallpaper_3.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/31/seasons.json"
+},
+{
+"T": "Mickey Mouse",
+"NOS": "1",
+"THUMB": "https://img.youtube.com/vi/LV0-OGiGGyg/maxresdefault.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/48/seasons.json"
+},
+{
+"T": "Motu Patlu",
+"NOS": "3",
+"THUMB": "https://i.ytimg.com/vi/03Oi1_xJt-g/hqdefault.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/53/seasons.json"
+},
+{
+"T": "Mr. Bean: The Animated Series",
+"NOS": "2",
+"THUMB": "https://www.watchcartoononline.io/thumbs/Mr-Bean-the-Animated-Series-Season-4-Episode-1-Home-Movie.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/9/seasons.json"
+},
+{
+"T": "Mr Bean: TV series",
+"NOS": "1",
+"THUMB": "http://www.mrbeantvseries.co.uk/bean3.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/63/seasons.json"
+},
+{
+"T": "Ninja Hattori",
+"NOS": "1",
+"THUMB": "https://ih0.redbubble.net/image.224474600.0383/flat,600x600,070,f.u1.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/60/seasons.json"
+},
+{
+"T": "Oggy and the Cockroaches",
+"NOS": "1",
+"THUMB": "http://vignette1.wikia.nocookie.net/oggyandthecockroaches/images/e/ea/Jack_and_Oggy_and_cockroaches.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/62/seasons.json"
+},
+{
+"T": "Olaf's Frozen Adventure",
+"NOS": "1",
+"THUMB": "http://piccc.coolsanime.com/c/1618_3.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/78/seasons.json"
+},
+{
+"T": "Oswald",
+"NOS": "1",
+"THUMB": "https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-tv/oswald-poster.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/74/seasons.json"
+},
+{
+"T": "Perman",
+"NOS": "1",
+"THUMB": "http://images5.fanpop.com/image/photos/28200000/perman-perman-28265711-800-600.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/46/seasons.json"
+},
+{
+"T": "Phineas and Ferb",
+"NOS": "1",
+"THUMB": "http://img06.deviantart.net/14bc/i/2011/294/c/5/phineas_and_ferb_by_colorousme-d4dhqqx.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/30/seasons.json"
+},
+{
+"T": "Pingu",
+"NOS": "1",
+"THUMB": "https://i.ytimg.com/vi/BaZL8ys8bBs/hqdefault.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/32/seasons.json"
+},
+{
+"T": "Pink Panther",
+"NOS": "1",
+"THUMB": "https://www.bleedingcool.com/wp-content/uploads/2014/03/pink-panther.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/51/seasons.json"
+},
+{
+"T": "Pokemon",
+"NOS": "1",
+"THUMB": "http://otakudome.com/wp-content/uploads/2014/12/url3.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/27/seasons.json"
+},
+{
+"T": "Popeye The Sailor Man",
+"NOS": "1",
+"THUMB": "https://3.bp.blogspot.com/-iEi4HbM4IiE/UlCTGg-DamI/AAAAAAAAAaM/_A3ggjQBlJQ/s640/Popeye+HD+Wallpapers+8.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/42/seasons.json"
+},
+{
+"T": "Power Rangers",
+"NOS": "1",
+"THUMB": "http://assets1.ignimgs.com/2016/05/06/mighty-morphin-s1-power-rangersjpg-652e5e_765w.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/43/seasons.json"
+},
+{
+"T": "Recess",
+"NOS": "2",
+"THUMB": "https://cultfaction.files.wordpress.com/2015/01/disney-recess.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/28/seasons.json"
+},
+{
+"T": "Road Runner & Wile E Coyote",
+"NOS": "1",
+"THUMB": "http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/roadrunner-primary.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/22/seasons.json"
+},
+{
+"T": "Samurai Jack",
+"NOS": "1",
+"THUMB": "http://cdn.collider.com/wp-content/uploads/samurai-jack-vs-aku.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/6/seasons.json"
+},
+{
+"T": "Scooby-Doo",
+"NOS": "1",
+"THUMB": "http://assets.nydailynews.com/polopoly_fs/1.2515976.1454336796!/img/httpImage/image.jpg_gen/derivatives/article_750/jan-05.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/20/seasons.json"
+},
+{
+"T": "Shinchan",
+"NOS": "4",
+"THUMB": "https://qph.ec.quoracdn.net/main-qimg-60469785a6593652adf7e7388194d0f8?convert_to_webp=true",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/14/seasons.json"
+},
+{
+"T": "Smurfs The Lost Village",
+"NOS": "1",
+"THUMB": "http://piccc.coolsanime.com/sft18/mid_8583.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/79/seasons.json"
+},
+{
+"T": "Spider Man: The Animated Series",
+"NOS": "5",
+"THUMB": "https://s20.postimg.org/588ah64v1/tumblr_maw6noj5_UL1rd1j5no1_400.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/56/seasons.json"
+},
+{
+"T": "SpongeBob SquarePants",
+"NOS": "2",
+"THUMB": "https://upload.wikimedia.org/wikipedia/en/0/0b/Nickelodeon_SpongeBob_SquarePants_Characters_Cast.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/11/seasons.json"
+},
+{
+"T": "Swat Kats : English",
+"NOS": "2",
+"THUMB": "http://www.rvgfanatic.com/mediac/400_0/media/DIR_418412/swat-set.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/69/seasons.json"
+},
+{
+"T": "Takeshi's Castle",
+"NOS": "1",
+"THUMB": "http://vignette2.wikia.nocookie.net/keshiheads/images/4/4c/Blueberry_Hill.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/36/seasons.json"
+},
+{
+"T": "TaleSpin",
+"NOS": "1",
+"THUMB": "http://www.digital-polyphony.com/OldTaleSpinDesign.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/44/seasons.json"
+},
+{
+"T": "Teen Titans",
+"NOS": "1",
+"THUMB": "http://vignette2.wikia.nocookie.net/teen-titans-go/images/a/a4/4374406-teen-titans-season-1-screenshot-1.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/35/seasons.json"
+},
+{
+"T": "The Adventures of Tintin",
+"NOS": "3",
+"THUMB": "http://www.mrgrayhistory.com/wp-content/uploads/2013/07/70576.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/15/seasons.json"
+},
+{
+"T": "The Boss Baby",
+"NOS": "1",
+"THUMB": "https://s-media-cache-ak0.pinimg.com/originals/0d/c9/95/0dc9955ff5ee31f5be69c7c8bfd724a4.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/72/seasons.json"
+},
+{
+"T": "The Flintstones",
+"NOS": "1",
+"THUMB": "http://www.seowebmarketing.co.uk/wp-content/uploads/The-Flintstones-Google-Doodle-900x506.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/25/seasons.json"
+},
+{
+"T": "The Jungle Book",
+"NOS": "1",
+"THUMB": "http://res.cloudinary.com/maymay/image/upload/v1512202712/v1_qmq5ju.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/65/seasons.json"
+},
+{
+"T": "The Lion Guard: Return of the Roar",
+"NOS": "1",
+"THUMB": "https://upload.wikimedia.org/wikipedia/en/1/1f/The_Lion_Guard_(Music_from_the_TV_Series).jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/64/seasons.json"
+},
+{
+"T": "The Powerpuff Girls",
+"NOS": "2",
+"THUMB": "http://www.thegamewiz.com/wp-content/uploads/2015/02/powerpuff-girls.png",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/13/seasons.json"
+},
+{
+"T": "Tom and Jerry",
+"NOS": "1",
+"THUMB": "http://www.almrsal.com/wp-content/uploads/2014/04/Tom-And-Jerry-a-series-of-short-films-created-by-William-Hanna-and-Joseph-Barbera.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/26/seasons.json"
+},
+{
+"T": "Up",
+"NOS": "1",
+"THUMB": "https://i.ytimg.com/vi/gxF24ioN9I4/hqdefault.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/54/seasons.json"
+},
+{
+"T": "We Bare Bears",
+"NOS": "1",
+"THUMB": "https://bancodeseries.com.br/images/posters/9854.jpg",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/75/seasons.json"
+},
+{
+"T": "Yo-Kai Watch",
+"NOS": "1",
+"THUMB": "0B95EcjsH6Bo7dXA1QmMtWGNrMnc",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/66/seasons.json"
+},
+{
+"T": "Zatch Bell",
+"NOS": "2",
+"THUMB": "http://vignette2.wikia.nocookie.net/cartoonnetwork/images/b/bf/Zatch_Bell!.jpg/revision/latest?cb=20140702033423",
+"ST": "true",
+"NPU": "https://watchhindicartoons.herokuapp.com/animes/45/seasons.json"
+}
+]

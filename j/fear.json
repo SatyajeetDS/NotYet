@@ -1,0 +1,77 @@
+{
+"android": [
+{
+
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "0.1",
+"name": "Jeet",
+"api": "API level 3111"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "1.0",
+"name": "Abhi",
+"api": "API level 007"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "2.0 - 2.1",
+"name": "Eclair",
+"api": "API level 5 - 7"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "2.2",
+"name": "Froyo",
+"api": "API level 8"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "2.3",
+"name": "Gingerbread",
+"api": "API level 9 - 10"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "3.0 - 3.2",
+"name": "Honeycomb",
+"api": "API level 11 - 13"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "4.0",
+"name": "Ice Cream Sandwich",
+"api": "API level 14 - 15"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "4.1 - 4.3",
+"name": "JellyBean",
+"api": "API level 16 - 18"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "4.4",
+"name": "KitKat",
+"api": "API level 19"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "5.0 - 5.1",
+"name": "Lollipop",
+"api": "API level 21 - 22"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "6.0",
+"name": "Marshmallow",
+"api": "API level 23"
+},
+{
+"img":"https://lumiere-a.akamaihd.net/v1/images/image_798cbbfc.jpeg",
+"ver": "7.0 - 7.1",
+"name": "Nougat",
+"api": "API level 24 - 25"
+}
+]
+}
