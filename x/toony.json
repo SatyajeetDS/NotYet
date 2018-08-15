@@ -1,0 +1,137 @@
+[
+   {
+      "Actors": "Cuba Gooding Jr., Angie Harmon, James Woods, Patrick Fabian",
+      "Cover": "Endgame-movie-cover.jpg",
+      "Director": "Andy Cheng",
+      "MovieId": "2",
+      "Plot": "A secret Service agent and a news reporter investigate the conspiracy behind the assassination of the President",
+      "Title": "End Game",
+      "Year": "20113"
+   },
+   {
+      "Actors": "Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper",
+      "Cover": "Saving-Private-Ryan-Cover.jpg",
+      "Director": "Steven Spielberg",
+      "MovieId": "3",
+      "Plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action",
+      "Title": "Saving Private Ryan",
+      "Year": "1998"
+   },
+   {
+      "Actors": "Sylvester Stallone, Brigitte Nielsen, Reni Santoni, Andrew Robinson",
+      "Cover": "cobra.jpg",
+      "Director": "George P. Cosmatos",
+      "MovieId": "4",
+      "Plot": "A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans",
+      "Title": "Cobra",
+      "Year": "1986"
+   },
+   {
+      "Actors": "Blake Lively, Taylor Kitsch, Aaron Taylor-Johnson, Jana Banker",
+      "Cover": "savages.jpg",
+      "Director": "Oliver Stone",
+      "MovieId": "5",
+      "Plot": "Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend",
+      "Title": "Savages",
+      "Year": "2012"
+   },
+   {
+      "Actors": "Leonardo DiCaprio, Jeremy Irons, John Malkovich, Gérard Depardieu",
+      "Cover": "maninimask.jpg",
+      "Director": "Randall Wallac",
+      "MovieId": "6",
+      "Plot": "The cruel King Louis XIV of France has a secret twin brother who he keeps imprisoned. Can the twin be substituted for the real king?\"",
+      "Title": "The Man in the Iron Mask",
+      "Year": "1998"
+   },
+   {
+      "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+      "Cover": "MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg",
+      "Director": "Frank Darabont",
+      "MovieId": "7",
+      "Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "Title": "The Shawshank Redemption",
+      "Year": "1994"
+   },
+   {
+      "Actors": "Ben Whishaw, Francesc Albiol, Gonzalo Cunill, Roger Salvany",
+      "Cover": "MV5BMTI0NjUyMTk3Nl5BMl5BanBnXkFtZTcwOTA5MzkzMQ@@._V1_SX300.jpg",
+      "Director": "Tom Tykwer",
+      "MovieId": "8",
+      "Plot": "Jean-Baptiste Grenouille, born with a superior olfactory sense, creates the world's finest perfume. His work, however, takes a dark turn as he searches for the ultimate scent.",
+      "Title": "Perfume: The Story of a Murderer",
+      "Year": "2006"
+   },
+   {
+      "Actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",
+      "Cover": "MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+      "Director": "Steven Spielberg",
+      "MovieId": "9",
+      "Plot": "The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",
+      "Title": "Catch Me If You Can",
+      "Year": "2002"
+   },
+   {
+      "Actors": "Pierce Brosnan, John Cleese, Willem Dafoe, Judi Dench",
+      "Cover": "007.jpg",
+      "Director": "Scot Bayless",
+      "MovieId": "10",
+      "Plot": "MI6 agent James Bond:007 rushes into action to rescue Oxford scientist Katya Nadanova from a terrorist facility in Egypt. After rescuing Katya bond heads to a mining town in Peru to ..",
+      "Title": "James Bond 007",
+      "Year": "2003"
+   },
+   {
+      "Actors": "Jim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck",
+      "Cover": "theMask.jpg",
+      "Director": "Chuck Russel",
+      "MovieId": "11",
+      "Plot": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mas",
+      "Title": "The Mask",
+      "Year": "1994"
+   },
+   {
+      "Actors": "Sylvester Stallone, Julie Benz, Matthew Marsden, Graham McTavish",
+      "Cover": "rambo.jpg",
+      "Director": "Sylvester Stallone",
+      "MovieId": "12",
+      "Plot": "In Thailand, John Rambo joins a group of missionaries to venture into war-torn Burma, and rescue a group of Christian aid workers who were kidnapped by the ruthless local infantry unit",
+      "Title": "Rambo",
+      "Year": "2008"
+   },
+   {
+      "Actors": "Tom Hanks, David Morse, Michael Clarke Duncan, Bonnie Hunt",
+      "Cover": "greenmile.jpg",
+      "Director": "Frank Darabont",
+      "MovieId": "13",
+      "Plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.\",\"Language\":\"English, French\",\"Country\":\"USA\",\"Awards\":\"Nominated for 4 Oscars. Another 15 wins & 30 nominations",
+      "Title": "The Green Mile",
+      "Year": "1999"
+   },
+   {
+      "Actors": "Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio",
+      "Cover": "scarface.jpg",
+      "Director": "Brian De Palma",
+      "MovieId": "14",
+      "Plot": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed",
+      "Title": "Scarface",
+      "Year": "1983"
+   },
+   {
+      "Actors": "Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton",
+      "Cover": "alien.jpg",
+      "Director": "Ridley Scott",
+      "MovieId": "15",
+      "Plot": "After a space merchant vessel perceives an unknown transmission as distress call, their landing on the source moon finds one of the crew attacked by a mysterious lifeform. Continuing their journey back to Earth with the attacked crew having recovered and the critter deceased, they soon realize that its life cycle has merely begun",
+      "Title": "Alien",
+      "Year": "1979"
+   },
+   {
+      "Actors": "Robert De Niro, Al Pacino, 50 Cent, Carla Gugino",
+      "Cover": "Righteous Kill.jpg",
+      "Director": "Jon Avnet",
+      "MovieId": "17",
+      "Plot": "Two veteran New York City detectives work on a case of serial executions of criminals who escaped justice",
+      "Title": "Righteous Kill",
+      "Year": "2008"
+   }
+]
