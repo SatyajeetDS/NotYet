@@ -2,7 +2,7 @@ ErrorDocument 404 /404.php
 
 RewriteEngine On
 RewriteCond %{HTTP_HOST} !^www\.
-RewriteRule ^(.*)$ https://megatoons.herokuapp.com%{REQUEST_URI} [R=301,L]
+RewriteRule ^(.*)$ http://megatoons.herokuapp.com/%{REQUEST_URI}/$1 [R=301,L]
 
 RewriteEngine On
 RewriteCond %{SCRIPT_FILENAME} !-d
