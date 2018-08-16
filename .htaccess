@@ -1,4 +1,4 @@
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.(html|htm|xml|txt|xsl) -f
-RewriteRule ^(.*)$ $1.(html|htm|xml|txt|xsl)
+RewriteCond %{REQUEST_FILENAME}\(.html|.json|.xml)$ -f
+RewriteRule ^(.*)$ $1(.html|.json|.xml)$
