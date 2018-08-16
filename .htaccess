@@ -3,7 +3,7 @@ ErrorDocument 404 /404.php
 RewriteCond %{HTTP_HOST} !^$
 RewriteCond %{HTTP_HOST} !^www\. [NC]
 RewriteCond %{HTTPS}s ^on(s)|
-RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 RewriteEngine On
 RewriteCond %{SCRIPT_FILENAME} !-d
@@ -11,7 +11,7 @@ RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www\.
-RewriteRule ^(.*)$ http://example.com/$1 [R=301,L]
+RewriteRule ^(.*)$ http://megatoons.heroku.com/$1 [R=301,L]
 
 #NOTE: The items below are not part of the remove .html or .php but I think you should use them as the optimize the proformace or your site. You can delete them if you like.
 
