@@ -2,8 +2,8 @@ ErrorDocument 404 /404.php
 
 #Force non-www:
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^www\.megatoons.herokuapp\.com [NC]
-RewriteRule ^(.*)$ http://megatoons.herokuapp.com/$1 [L,R=301]
+RewriteCond %{REQUEST_FILENAME} ^https\.megatoons.herokuapp\.com [NC]
+RewriteRule ^(.*)$ https://megatoons.herokuapp.com/$1 [L,R=301]
 
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
