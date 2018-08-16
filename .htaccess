@@ -1,5 +1,5 @@
 ErrorDocument 404 /404.php
-
+#force http
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www\.
 RewriteRule ^(.*)$ http://megatoons.herokuapp.com/$1 [R=301,L]
