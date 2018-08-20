@@ -13,7 +13,7 @@ RewriteRule ^(.*)$ $1.json [NC]
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC]
 
-RedirectMatch 301 (?i)/phpMyAdmin http://example.com/somewhere-else/
+RedirectMatch 301 (?i)/Notification http://megatoons.herokuapp.com/notification
 
 #Blocking based on User-Agent Header like bad bots from hacking your site.
 SetEnvIfNoCase ^User-Agent$ .*(craftbot|download|extract|stripper|sucker|ninja|clshttp|webspider|leacher|collector|grabber|webpictures) HTTP_SAFE_BADBOT
