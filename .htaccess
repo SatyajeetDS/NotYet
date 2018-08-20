@@ -13,7 +13,7 @@ RewriteRule ^(.*)$ $1.json [NC]
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC]
 
-RedirectMatch 301 (?i)/notices http://megatoons.herokuapp.com/Notices
+RedirectMatch 301 (?i)/Notices http://megatoons.herokuapp.com/notices
 
 #Blocking based on User-Agent Header like bad bots from hacking your site.
 SetEnvIfNoCase ^User-Agent$ .*(craftbot|download|extract|stripper|sucker|ninja|clshttp|webspider|leacher|collector|grabber|webpictures) HTTP_SAFE_BADBOT
