@@ -13,6 +13,9 @@ RewriteRule ^(.*)$ $1.json [NC]
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC]
 
+RewriteMap tolowercase int:tolower 
+RewriteRule ^(.*)$ ${tolowercase:$1}
+
 <IfModule mod_speling.c>
   CheckCaseOnly On
   CheckSpelling On
