@@ -8,9 +8,9 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301][QSA,L,NC]
 
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}\.json [QSA,L,NC] -f
+RewriteCond %{REQUEST_FILENAME}\.json [L,R=301][QSA,L,NC] -f
 RewriteRule ^(.*)$ $1.json 
-RewriteCond %{REQUEST_FILENAME}\.html [QSA,L,NC] -f
+RewriteCond %{REQUEST_FILENAME}\.html [L,R=301][QSA,L,NC] -f
 RewriteRule ^(.*)$ $1.html 
 
 #Blocking based on User-Agent Header like bad bots from hacking your site.
