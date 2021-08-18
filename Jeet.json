@@ -143,6 +143,18 @@
         "NPU": "ID/INFINITE",
         "THUMB": "https://cdn.pixabay.com/photo/2017/05/30/16/35/galaxy-2357504__340.jpg"
     },
+	 {
+        "ID": 64,
+        "T": "Inspirational",
+        "NPU": "ID/Inspirational",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/06/11/07/42/quotes-1449691__340.jpg"
+    },
+	{
+        "ID": 67,
+        "T": "Intelligent",
+        "NPU": "ID/Intelligent",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/01/25/10/46/businessman-3105873__340.jpg"
+    },
     {
         "ID": 25,
         "T": "JEALOUSY  ",
@@ -215,6 +227,13 @@
         "NPU": "ID/MEMORIES",
         "THUMB": "https://cdn.pixabay.com/photo/2014/02/02/17/40/photographs-256888__340.jpg"
     },
+	
+	  {
+        "ID": 63,
+        "T": "Motivational",
+        "NPU": "ID/Motivational",
+        "THUMB": "https://cdn.pixabay.com/photo/2018/01/24/17/33/light-bulb-3104355__340.jpg"
+    },
     {
         "ID": 37,
         "T": "MOVING ON  ",
@@ -256,6 +275,12 @@
         "T": "PRAISE  ",
         "NPU": "ID/PRAISE",
         "THUMB": "https://cdn.pixabay.com/photo/2017/08/05/21/57/people-2585962__340.jpg"
+    },
+	{
+        "ID": 65,
+        "T": "Psychological",
+        "NPU": "ID/Psychological",
+        "THUMB": "https://cdn.pixabay.com/photo/2019/01/04/09/19/depression-3912748__340.jpg"
     },
     {
         "ID": 44,
@@ -335,6 +360,12 @@
         "NPU": "ID/THINKING",
         "THUMB": "https://cdn.pixabay.com/photo/2015/11/13/20/15/light-bulb-1042480__340.jpg"
     },
+	{
+        "ID": 66,
+        "T": "Thoughtful  ",
+        "NPU": "ID/Thoughtful",
+        "THUMB": "https://cdn.pixabay.com/photo/2016/01/19/14/42/woman-1148923__340.jpg"
+    },
     {
         "ID": 57,
         "T": "TIME  ",
@@ -371,41 +402,12 @@
         "NPU": "ID/WORK",
         "THUMB": "https://cdn.pixabay.com/photo/2017/10/10/21/49/youtuber-2838945__340.jpg"
     },
-    {
-        "ID": 63,
-        "T": "Herbert Henry",
-        "NPU": "ID/",
-        "THUMB": "ligapob.gn"
-    },
-    {
-        "ID": 64,
-        "T": "Harriett Chavez",
-        "NPU": "ID/",
-        "THUMB": "fonramoj.my"
-    },
-    {
-        "ID": 65,
-        "T": "Etta Roberts",
-        "NPU": "ID/",
-        "THUMB": "zonlas.ao"
-    },
-    {
-        "ID": 66,
-        "T": "Carlos Roberts",
-        "NPU": "ID/",
-        "THUMB": "nofaz.ml"
-    },
-    {
-        "ID": 67,
-        "T": "Elijah Klein",
-        "NPU": "ID/",
-        "THUMB": "dibigge.com"
-    },
+ 
     {
         "ID": 68,
         "T": "Margaret Banks",
         "NPU": "ID/",
-        "THUMB": "reta.bt"
+        "THUMB": "https://cdn.pixabay.com/photo/2015/12/11/18/50/thought-1088647__340.jpg"
     },
     {
         "ID": 69,
