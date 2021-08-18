@@ -146,13 +146,13 @@
 	 {
         "ID": 64,
         "T": "Inspirational",
-        "NPU": "ID/Inspirational",
+        "NPU": "ID/inspire2",
         "THUMB": "https://cdn.pixabay.com/photo/2016/06/11/07/42/quotes-1449691__340.jpg"
     },
 	{
         "ID": 67,
         "T": "Intelligent",
-        "NPU": "ID/Intelligent",
+        "NPU": "ID/int4",
         "THUMB": "https://cdn.pixabay.com/photo/2018/01/25/10/46/businessman-3105873__340.jpg"
     },
     {
@@ -231,7 +231,7 @@
 	  {
         "ID": 63,
         "T": "Motivational",
-        "NPU": "ID/Motivational",
+        "NPU": "ID/moti3",
         "THUMB": "https://cdn.pixabay.com/photo/2018/01/24/17/33/light-bulb-3104355__340.jpg"
     },
     {
@@ -279,7 +279,7 @@
 	{
         "ID": 65,
         "T": "Psychological",
-        "NPU": "ID/Psychological",
+        "NPU": "ID/psy5",
         "THUMB": "https://cdn.pixabay.com/photo/2019/01/04/09/19/depression-3912748__340.jpg"
     },
     {
@@ -363,7 +363,7 @@
 	{
         "ID": 66,
         "T": "Thoughtful  ",
-        "NPU": "ID/Thoughtful",
+        "NPU": "ID/Thoughtful3",
         "THUMB": "https://cdn.pixabay.com/photo/2016/01/19/14/42/woman-1148923__340.jpg"
     },
     {
@@ -418,7 +418,7 @@
     {
         "ID": 70,
         "T": "Susan McCarthy",
-        "NPU": "ID/",
-        "THUMB": "ecnofli.wf"
+        "NPU": "ID/int4",
+        "THUMB": "2637"
     }
 ]
