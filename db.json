@@ -1,0 +1,34 @@
+{
+    "us-counties": [
+        {
+            "population": 55200,
+            "state": "Alabama",
+            "name": "Autauga",
+            "type": "County"
+        },
+        {
+            "population": 208107,
+            "state": "Alabama",
+            "name": "Baldwin",
+            "type": "County"
+        },
+        {
+            "population": 25782,
+            "state": "Alabama",
+            "name": "Barbour",
+            "type": "County"
+        },
+        {
+            "population": 22527,
+            "state": "Alabama",
+            "name": "Bibb",
+            "type": "County"
+        },
+        {
+            "population": 57645,
+            "state": "Alabama",
+            "name": "Blount",
+            "type": "County"
+        }
+		]
+		}
