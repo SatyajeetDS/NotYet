@@ -1,6 +1,6 @@
 let apiUrl = "https://megatoons.herokuapp.com/db.json"
 let currentUrl = "https://megatoons.herokuapp.com/db.json?_limit=20&_page=1"
-const tableOfCounties = document.getElementById( "us-counties?" );
+const tableOfCounties = document.getElementById( "counties" );
 
 // Another way to parse link headers - depraved and unspeakable, but only one line
 // function parseLinkHeader( linkHeader ) {
