@@ -1,5 +1,5 @@
-let apiUrl = "https://megatoons.herokuapp.com/db.json"
-let currentUrl = "https://megatoons.herokuapp.com/db.json?_limit=20&_page=1"
+let apiUrl = "https://megatoons.herokuapp.com/us-counties"
+let currentUrl = "https://megatoons.herokuapp.com/us-counties?_limit=20&_page=1"
 const tableOfCounties = document.getElementById( "counties" );
 
 // Another way to parse link headers - depraved and unspeakable, but only one line
@@ -75,7 +75,7 @@ function paginate( direction ) {
 
 function searchCounties( searchFormSubmission ) {
     searchFormSubmission.preventDefault();
-    currentUrl = `https://megatoons.herokuapp.com/db.json?${ searchFormSubmission.target.elements.filter.value }=${ searchFormSubmission.target.elements.query.value }&_limit=${ searchFormSubmission.target.elements.limit.value }&_page=1`;
+    currentUrl = `https://megatoons.herokuapp.com/us-counties?${ searchFormSubmission.target.elements.filter.value }=${ searchFormSubmission.target.elements.query.value }&_limit=${ searchFormSubmission.target.elements.limit.value }&_page=1`;
     fetchCounties( currentUrl );
 }
 
